@@ -116,3 +116,7 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij
+
+# 강의 자료 ignore
+/design-patterns/ex-code
+design-patterns/ex-code
